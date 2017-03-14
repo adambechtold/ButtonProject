@@ -17,7 +17,7 @@ The data is packaged into a cell array and returned.
 
 function f = startCollection
 
-    %Adam, your port is probably:
+    %Defulat arduino port:
     port = '/dev/tty.usbserial-DN02BEP0';
 
     %set up board
